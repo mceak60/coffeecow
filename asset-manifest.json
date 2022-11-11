@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/coffeecow/static/css/main.435567a9.css",
+    "main.js": "/coffeecow/static/js/main.58565a19.js",
+    "static/js/787.6d021521.chunk.js": "/coffeecow/static/js/787.6d021521.chunk.js",
+    "static/media/coffeecow.jpg": "/coffeecow/static/media/coffeecow.f6f8e07ca2f4e0886d99.jpg",
+    "static/media/VCR_OSD_MONO_1.001.ttf": "/coffeecow/static/media/VCR_OSD_MONO_1.001.10cf96d54dcd9af0486c.ttf",
+    "index.html": "/coffeecow/index.html",
+    "main.435567a9.css.map": "/coffeecow/static/css/main.435567a9.css.map",
+    "main.58565a19.js.map": "/coffeecow/static/js/main.58565a19.js.map",
+    "787.6d021521.chunk.js.map": "/coffeecow/static/js/787.6d021521.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.435567a9.css",
+    "static/js/main.58565a19.js"
+  ]
+}
