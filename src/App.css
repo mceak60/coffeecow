@@ -6,7 +6,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(images/coffeecow.jpg);
+  background-image: url(images/cow.gif), url(images/noise.jpg);
   background-repeat: round;
   color: rgb(0, 0, 0);
 }
